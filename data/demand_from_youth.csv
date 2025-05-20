@@ -1,120 +1,178 @@
-Commune,NPA,Commune d'annonce / District,demand_from_youth,distance_to_venoge_km
-Penthaz,1303,Penthaz,42,0.74
-Penthalaz,1305,Penthalaz,67,2.72
-Bournens,1035,Bournens,12,3.51
-Daillens,1306,Daillens,19,3.98
-Sullens,1036,Sullens,21,4.12
-Mex VD,1031,Mex (VD),13,4.32
-Cossonay-Ville,1304,Cossonay,126,4.72
-Lussery-Villars,1307,Lussery-Villars,8,4.85
-Gollion,1124,Gollion,18,5.04
-Boussens,1034,Boussens,18,5.08
-Aclens,1123,Aclens,11,6.28
-Cheseaux-sur-Lausanne,1033,Cheseaux-sur-Lausanne,108,7.81
-Bremblens,1121,Bremblens,12,8.46
-Oulens-sous-Echallens,1377,Oulens-sous-Echallens,10,8.48
-Crissier,1023,Crissier,340,8.59
-La Chaux (Cossonay),1308,La Chaux (Cossonay),7,8.88
-Grancy,1117,Grancy,10,9.16
-Romanel-sur-Lausanne,1032,Lausanne,4003,9.17
-Vullierens,1115,Vullierens,8,9.23
-Chevilly,1316,Chevilly,7,9.38
-Echandens,1026,Echandens,100,9.7
-Morrens VD,1054,Morrens (VD),20,9.71
-Eclagnens,1376,Goumoëns,16,10.34
-Ecublens VD,1024,Ecublens (VD),454,10.6
-St-Saphorin-sur-Morges,1113,Echichens,52,10.75
-Cottens VD,1116,Hautemorges,79,11.29
-Cugy VD,1053,Cugy (VD),59,11.3
-Chavannes-près-Renens,1022,Chavannes-près-Renens,420,11.43
-Ferreyres,1313,Ferreyres,4,12.65
-Vaux-sur-Morges,1126,Vaux-sur-Morges,4,12.96
-Clarmont,1127,Clarmont,4,13.14
-Poliez-le-Grand,1041,Montilliez,33,13.9
-St-Sulpice VD,1025,Saint-Sulpice (VD),144,14.13
-Le Mont-sur-Lausanne,1052,Le Mont-sur-Lausanne,155,14.3
-Froideville,1055,Froideville,41,15.75
-Epalinges,1066,Epalinges,179,16.67
-Tolochenaz,1131,Tolochenaz,29,17.27
-Villars-Ste-Croix,1029,Villars-Sainte-Croix,13,17.3
-Corcelles-sur-Chavornay,1374,Chavornay,91,17.33
-Lully VD,1132,Lully (VD),10,17.89
-Les Monts-de-Pully,1068,Pully,235,17.96
-Peyres-Possens,1063,Montanaire,34,19.11
-Lussy-sur-Morges,1167,Lussy-sur-Morges,7,19.46
-Villars-Tiercelin,1058,Jorat-Menthue,17,19.53
-Denens,1135,Denens,8,19.82
-Mollens VD,1146,Mollens (VD),3,20.11
-La Croix (Lutry),1090,Lutry,98,20.14
-Corcelles-le-Jorat,1082,Corcelles-le-Jorat,6,20.15
-Montricher,1147,Montricher,10,20.65
-Essertines-sur-Yverdon,1417,Essertines-sur-Yverdon,13,20.98
-Vuarrens,1418,Vuarrens,11,21.27
-Agiez,1352,Agiez,3,21.45
-Valeyres-sous-Rances,1358,Valeyres-sous-Rances,5,21.77
-Villars-sous-Yens,1168,Villars-sous-Yens,5,22.24
-Ogens,1045,Ogens,2,22.24
-Hermenches,1513,Hermenches,3,22.53
-Ropraz,1088,Ropraz,4,22.89
-Savigny,1073,Savigny,23,23.12
-Berolle,1149,Bière,13,23.38
-Lavigny,1175,Lavigny,7,23.76
-Montpreveyres,1081,Montpreveyres,5,23.78
-Pailly,1416,Pailly,3,23.93
-Ursins,1412,Ursins,1,24.22
-Montcherand,1354,Montcherand,3,24.57
-Mathod,1438,Mathod,6,24.82
-Sergey,1355,Sergey,1,24.83
-Rances,1439,Rances,3,25.11
-Orzens,1413,Orzens,1,25.18
-Aubonne,1170,Aubonne,22,25.22
-Vaulion,1325,Vaulion,2,25.22
-Forel (Lavaux),1072,Forel (Lavaux),8,25.82
-Buchillon,1164,Buchillon,3,26.28
-Féchy,1173,Féchy,5,26.33
-Oppens,1047,Oppens,1,26.4
-Chexbres,1071,Chexbres,9,26.4
-Rueyres,1046,Rueyres,2,26.51
-Suscévaz,1437,Suscévaz,1,26.64
-Gossens,1407,Donneloye,4,26.73
-Moudon,1510,Moudon,34,26.87
-Vucherens,1509,Vucherens,2,27.24
-Champvent,1443,Champvent,3,27.27
-Le Pont,1342,L'Abbaye,4,28.04
-Essertes,1078,Oron,19,28.89
-Puidoux,1070,Puidoux,9,29.6
-Mont-sur-Rolle,1185,Essertines-sur-Rolle,2,29.77
-Cuarny,1404,Cuarny,1,29.87
-Bougy-Villars,1172,Bougy-Villars,1,30.02
-Servion,1077,Servion,5,30.17
-Mézières VD,1083,Jorat-Mézières,9,30.2
-St-Livres,1176,Saint-Livres,2,30.27
-Le Séchey,1345,Le Lieu,2,30.45
-Cronay,1406,Cronay,1,30.57
-Bussy-sur-Moudon,1514,Bussy-sur-Moudon,1,30.86
-Chavannes-sur-Moudon,1512,Chavannes-sur-Moudon,1,30.89
-Baulmes,1446,Baulmes,3,30.92
-Corseaux,1802,Corseaux,4,30.96
-Chardonne,1803,Chardonne,6,31.29
-Jongny,1805,Corsier-sur-Vevey,6,31.96
-Corsier-sur-Vevey,1804,Jongny,3,32.04
-Bursins,1183,Gilly,2,32.33
-Orges,1430,Orges,1,32.47
-Oulens-sur-Lucens,1522,Lucens,8,32.67
-Saubraz,1189,Saubraz,1,33.33
-Carrouge VD,1084,Vulliens,1,33.34
-Combremont-le-Petit,1536,Valbroye,4,33.49
-Yvonand,1462,Yvonand,4,33.65
-Vuiteboeuf,1445,Vuiteboeuf,1,33.93
-Champagne,1424,Champagne,1,34.42
-Burtigny,1268,Bursins,1,35.06
-Chailly-Montreux,1816,Montreux,24,36.78
-La Tour-de-Peilz,1814,La Tour-de-Peilz,9,37.0
-Vich,1267,Vich,1,37.17
-Gimel,1188,Gimel,1,38.37
-L'Orient,1341,Le Chenit,2,38.89
-L'Auberson,1454,Sainte-Croix,2,39.37
-Prangins,1197,Prangins,2,40.06
-Genolier,1272,Genolier,1,40.57
-St-Légier-La Chiésaz,1806,Blonay - Saint-Légier,2,45.42
-Payerne,1530,Payerne,1,49.52
+Commune,NPA,Commune d'annonce / District,demand_from_youth,distance_to_venoge_km,index_in_distance_matrix
+Penthaz,1303,Penthaz,42,0.74,0
+Penthalaz,1305,Penthalaz,67,2.72,1
+Bournens,1035,Bournens,12,3.51,2
+Daillens,1306,Daillens,19,3.98,3
+Sullens,1036,Sullens,21,4.12,4
+Mex VD,1031,Mex (VD),13,4.32,5
+Cossonay-Ville,1304,Cossonay,100,4.72,6
+Cossonay-Ville,1304,Cossonay,26,4.72,6
+Lussery-Villars,1307,Lussery-Villars,8,4.85,7
+Gollion,1124,Gollion,18,5.04,8
+Boussens,1034,Boussens,18,5.08,9
+Aclens,1123,Aclens,11,6.28,10
+Cheseaux-sur-Lausanne,1033,Cheseaux-sur-Lausanne,100,7.81,11
+Cheseaux-sur-Lausanne,1033,Cheseaux-sur-Lausanne,8,7.81,11
+Bremblens,1121,Bremblens,12,8.46,12
+Oulens-sous-Echallens,1377,Oulens-sous-Echallens,10,8.48,13
+Crissier,1023,Crissier,100,8.59,14
+Crissier,1023,Crissier,100,8.59,14
+Crissier,1023,Crissier,100,8.59,14
+Crissier,1023,Crissier,40,8.59,14
+La Chaux (Cossonay),1308,La Chaux (Cossonay),7,8.88,15
+Grancy,1117,Grancy,10,9.16,16
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,100,9.17,17
+Romanel-sur-Lausanne,1032,Lausanne,3,9.17,17
+Vullierens,1115,Vullierens,8,9.23,18
+Chevilly,1316,Chevilly,7,9.38,19
+Echandens,1026,Echandens,100,9.7,20
+Morrens VD,1054,Morrens (VD),20,9.71,21
+Eclagnens,1376,Goumoëns,16,10.34,22
+Ecublens VD,1024,Ecublens (VD),100,10.6,23
+Ecublens VD,1024,Ecublens (VD),100,10.6,23
+Ecublens VD,1024,Ecublens (VD),100,10.6,23
+Ecublens VD,1024,Ecublens (VD),100,10.6,23
+Ecublens VD,1024,Ecublens (VD),54,10.6,23
+St-Saphorin-sur-Morges,1113,Echichens,52,10.75,24
+Cottens VD,1116,Hautemorges,79,11.29,26
+Cugy VD,1053,Cugy (VD),59,11.3,27
+Chavannes-près-Renens,1022,Chavannes-près-Renens,100,11.43,28
+Chavannes-près-Renens,1022,Chavannes-près-Renens,100,11.43,28
+Chavannes-près-Renens,1022,Chavannes-près-Renens,100,11.43,28
+Chavannes-près-Renens,1022,Chavannes-près-Renens,100,11.43,28
+Chavannes-près-Renens,1022,Chavannes-près-Renens,20,11.43,28
+Ferreyres,1313,Ferreyres,4,12.65,29
+Vaux-sur-Morges,1126,Vaux-sur-Morges,4,12.96,30
+Clarmont,1127,Clarmont,4,13.14,31
+Poliez-le-Grand,1041,Montilliez,33,13.9,35
+St-Sulpice VD,1025,Saint-Sulpice (VD),100,14.13,36
+St-Sulpice VD,1025,Saint-Sulpice (VD),44,14.13,36
+Le Mont-sur-Lausanne,1052,Le Mont-sur-Lausanne,100,14.3,37
+Le Mont-sur-Lausanne,1052,Le Mont-sur-Lausanne,55,14.3,37
+Froideville,1055,Froideville,41,15.75,41
+Epalinges,1066,Epalinges,100,16.67,45
+Epalinges,1066,Epalinges,79,16.67,45
+Tolochenaz,1131,Tolochenaz,29,17.27,48
+Villars-Ste-Croix,1029,Villars-Sainte-Croix,13,17.3,49
+Corcelles-sur-Chavornay,1374,Chavornay,91,17.33,50
+Lully VD,1132,Lully (VD),10,17.89,52
+Les Monts-de-Pully,1068,Pully,100,17.96,53
+Les Monts-de-Pully,1068,Pully,100,17.96,53
+Les Monts-de-Pully,1068,Pully,35,17.96,53
+Peyres-Possens,1063,Montanaire,34,19.11,54
+Lussy-sur-Morges,1167,Lussy-sur-Morges,7,19.46,55
+Villars-Tiercelin,1058,Jorat-Menthue,17,19.53,56
+Denens,1135,Denens,8,19.82,58
+Mollens VD,1146,Mollens (VD),3,20.11,59
+La Croix (Lutry),1090,Lutry,98,20.14,60
+Corcelles-le-Jorat,1082,Corcelles-le-Jorat,6,20.15,61
+Montricher,1147,Montricher,10,20.65,62
+Essertines-sur-Yverdon,1417,Essertines-sur-Yverdon,13,20.98,63
+Vuarrens,1418,Vuarrens,11,21.27,65
+Agiez,1352,Agiez,3,21.45,66
+Valeyres-sous-Rances,1358,Valeyres-sous-Rances,5,21.77,67
+Villars-sous-Yens,1168,Villars-sous-Yens,5,22.24,68
+Ogens,1045,Ogens,2,22.24,69
+Hermenches,1513,Hermenches,3,22.53,70
+Ropraz,1088,Ropraz,4,22.89,72
+Savigny,1073,Savigny,23,23.12,73
+Berolle,1149,Bière,13,23.38,74
+Lavigny,1175,Lavigny,7,23.76,75
+Montpreveyres,1081,Montpreveyres,5,23.78,76
+Pailly,1416,Pailly,3,23.93,77
+Ursins,1412,Ursins,1,24.22,78
+Montcherand,1354,Montcherand,3,24.57,79
+Mathod,1438,Mathod,6,24.82,80
+Sergey,1355,Sergey,1,24.83,81
+Rances,1439,Rances,3,25.11,82
+Orzens,1413,Orzens,1,25.18,83
+Aubonne,1170,Aubonne,22,25.22,84
+Vaulion,1325,Vaulion,2,25.22,85
+Forel (Lavaux),1072,Forel (Lavaux),8,25.82,86
+Buchillon,1164,Buchillon,3,26.28,87
+Féchy,1173,Féchy,5,26.33,88
+Oppens,1047,Oppens,1,26.4,89
+Chexbres,1071,Chexbres,9,26.4,90
+Rueyres,1046,Rueyres,2,26.51,91
+Suscévaz,1437,Suscévaz,1,26.64,92
+Gossens,1407,Donneloye,4,26.73,93
+Moudon,1510,Moudon,34,26.87,94
+Vucherens,1509,Vucherens,2,27.24,95
+Champvent,1443,Champvent,3,27.27,96
+Le Pont,1342,L'Abbaye,4,28.04,99
+Essertes,1078,Oron,19,28.89,102
+Puidoux,1070,Puidoux,9,29.6,104
+Mont-sur-Rolle,1185,Essertines-sur-Rolle,2,29.77,106
+Cuarny,1404,Cuarny,1,29.87,107
+Bougy-Villars,1172,Bougy-Villars,1,30.02,108
+Servion,1077,Servion,5,30.17,109
+Mézières VD,1083,Jorat-Mézières,9,30.2,110
+St-Livres,1176,Saint-Livres,2,30.27,112
+Le Séchey,1345,Le Lieu,2,30.45,113
+Cronay,1406,Cronay,1,30.57,114
+Bussy-sur-Moudon,1514,Bussy-sur-Moudon,1,30.86,116
+Chavannes-sur-Moudon,1512,Chavannes-sur-Moudon,1,30.89,117
+Baulmes,1446,Baulmes,3,30.92,118
+Corseaux,1802,Corseaux,4,30.96,119
+Chardonne,1803,Chardonne,6,31.29,120
+Jongny,1805,Corsier-sur-Vevey,6,31.96,122
+Corsier-sur-Vevey,1804,Jongny,3,32.04,123
+Bursins,1183,Gilly,2,32.33,124
+Orges,1430,Orges,1,32.47,126
+Oulens-sur-Lucens,1522,Lucens,8,32.67,128
+Saubraz,1189,Saubraz,1,33.33,132
+Carrouge VD,1084,Vulliens,1,33.34,133
+Combremont-le-Petit,1536,Valbroye,4,33.49,134
+Yvonand,1462,Yvonand,4,33.65,135
+Vuiteboeuf,1445,Vuiteboeuf,1,33.93,138
+Champagne,1424,Champagne,1,34.42,142
+Burtigny,1268,Bursins,1,35.06,146
+Chailly-Montreux,1816,Montreux,24,36.78,153
+La Tour-de-Peilz,1814,La Tour-de-Peilz,9,37.0,154
+Vich,1267,Vich,1,37.17,156
+Gimel,1188,Gimel,1,38.37,163
+L'Orient,1341,Le Chenit,2,38.89,164
+L'Auberson,1454,Sainte-Croix,2,39.37,168
+Prangins,1197,Prangins,2,40.06,173
+Genolier,1272,Genolier,1,40.57,176
+St-Légier-La Chiésaz,1806,Blonay - Saint-Légier,2,45.42,188
+Payerne,1530,Payerne,1,49.52,199
